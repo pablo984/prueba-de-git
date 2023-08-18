@@ -26,6 +26,13 @@ p{
     height: 100px;
     color: white;
     background-color: red;
+}    
 
+.escritura-pc-pieza{
+    background-color: crimson;
+    width: 400px;
+    height: 100px;
+    color: white;
+    text-align: center;
 }
 
